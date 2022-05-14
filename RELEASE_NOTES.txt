@@ -1,0 +1,13 @@
+== ====================================================================================================
+==
+== ElRinconDelTragon
+==
+== ====================================================================================================
+ - Main page implementation with Servlet
+ - User Session: User full name is shown on the screen when user has been authenticated.
+ - MVC pattern implementation using Servlets
+ - HTML Static files for parameter error
+ - ValueObject pattern implementation
+ - New View Servlet for error information
+ - New User ValueOject
+ 
